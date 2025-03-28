@@ -1,4 +1,4 @@
-let n = 3;
+let n = 4;
 let quadrado = 0;
     quadrado = n * n;
 
