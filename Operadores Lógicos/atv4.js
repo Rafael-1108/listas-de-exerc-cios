@@ -1,3 +1,3 @@
-let valor = 4
-let valor2 = 5
+let valor = 4;
+let valor2 = 5;
 
