@@ -1,6 +1,6 @@
 let n1 = 4;
 let n2 = 50;
-let n3 = 100.1;
+let n3 = 100.2;
 
     if (n1 >100 || n2 >100 || n3 >100) {
         console.log("Pelo menos um dos 3 números é maior que 100!");
