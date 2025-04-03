@@ -1,4 +1,4 @@
-let numero = 12;
+let numero = 16;
 
     if (numero %2 === 0 && numero >10) {
         console.log("O número é par e maior que 10!");
