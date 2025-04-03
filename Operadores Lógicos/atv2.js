@@ -1,10 +1,10 @@
 let idade = 34;
 
-    if (idade >= 16 && idade <= 70) {
+if (idade >= 16 && idade <= 70) {
         console.log("Você pode votar!");
 }
 
-    else {
+else {
         console.log("Você não pode votar!");
 }
 
