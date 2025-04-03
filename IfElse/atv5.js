@@ -1,13 +1,13 @@
-let nota = 70
+let nota = 70;
 
 if (nota >= 60 && nota <= 100) {
-    console.log("Aprovado!")
+    console.log("Aprovado!");
 }
     else if (nota < 60) {
-        console.log("Reprovado.")
+        console.log("Reprovado.");
 }
 else {
-    console.log("Nota inválida")
+    console.log("Nota inválida");
 }
 
 //Rafael - 03/04 - 20:04
