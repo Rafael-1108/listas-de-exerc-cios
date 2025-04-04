@@ -16,3 +16,5 @@ break;
     default:
         console.log("Estação inváliva, selecione outra entre 1 e 4.")
 }
+
+//Rafael - 04/04 - 10:34
