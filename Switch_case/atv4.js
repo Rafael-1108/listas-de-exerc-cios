@@ -1,4 +1,4 @@
-let nota = 9
+let nota = 10
 
 switch (true) {
     case nota >=9 && nota <=10 :
